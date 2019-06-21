@@ -24,7 +24,7 @@ Include a full list of features that have been prioritized based on the `Time an
 
 ## Functional components 
 
-https://res.cloudinary.com/db77zoxry/image/upload/v1560777894/20190616_155756_2.jpg
+https://res.cloudinary.com/db77zoxry/image/upload/v1561124929/20190617_110106.jpg
 
 ### MVP/PostMVP - 5min
 
@@ -35,10 +35,10 @@ Also add a feature in item table for the buyer to leave a msg to the person they
 
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: |
-| Backend | H | 8hrs| N/A |
-| Frontend| H | 8hrs| N/A |
-| Styling| M | 7hrs| N/A |
-| Total | H | 21hrs| NA |
+| Backend | H | 8hrs| 8hrs |
+| Frontend| H | 8hrs| 8hrs |
+| Styling| M | 7hrs| 8hrs |
+| Total | H | 21hrs| 24hrs |
 
 
 |  Day | Deliverable | Status
@@ -47,4 +47,4 @@ Also add a feature in item table for the buyer to leave a msg to the person they
 |Day 2| Pitch and Backend| Complete
 |Day 3| Frontend | Complete
 |Day 4| Styling and MVP| Complete
-|Day 5| Present  | Incomplete
+|Day 5| Present  | Complete
